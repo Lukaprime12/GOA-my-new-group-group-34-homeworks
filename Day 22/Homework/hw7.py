@@ -1,4 +1,7 @@
-def factorial(num):
-    for i in range(1, 10):
-        print(i)
-    ?
+def factorial():
+    namravli = 1
+    fact = int(input('enter number'))
+    for i in range(1, fact + 1):
+        namravli *= i
+    print(namravli)
+factorial()

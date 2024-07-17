@@ -1,0 +1,10 @@
+table, th, td:hover {
+    border-collapse: collapse;
+    border-radius: 5%;
+    word-spacing: 10px;
+    text-transform: 1s;
+  }
+
+tr {
+    border-radius: 50%
+}
