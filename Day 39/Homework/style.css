@@ -1,0 +1,80 @@
+#div1 {
+    font-size: 99%;
+    color: Blue;
+    text-align: center;
+}
+
+#div2 {
+    font-size: 90%;
+    color: yellow;
+    text-align: justify;
+}
+
+#div3 {
+    font-size: 90%;
+    color: black;
+    text-align: right;
+}
+
+#div4 {
+    font-size: 90%;
+    color: skyblue;
+    text-align: center;
+}
+
+#div5 {
+    font-size: 90%;
+    color: red;
+    text-align: justify;
+}
+
+#h1 {
+    text-decoration: line-through  dashed  greenyellow 5px;
+}
+
+#h2 {
+    text-decoration: underline dotted gold 5px;
+}
+
+#h3 {
+    text-decoration: overline double Blue 5px;
+}
+
+#h4 {
+    text-decoration: underline double gold 5px;
+}
+
+#h5 {
+    text-decoration: overline dotted chartreuse 5px;
+}
+
+#h6 {
+    text-decoration: underline solid olive 5px;
+}
+
+#h7 {
+    text-decoration: underline double gold 5px;
+}
+
+#h8 {
+    text-decoration: line-through solid limegreen 5px;
+}
+
+#h9 {
+    text-decoration: line-through dotted lime 5px;
+}
+
+#h10 {
+    text-decoration: line-through dashed lemonchiffon 5px;
+}
+
+
+#h11 {
+    text-decoration: underline dotted gray 5px;
+    text-align: center
+}
+
+#h12 {
+    text-decoration: line-through solid black 5px;
+    text-align: center;
+}

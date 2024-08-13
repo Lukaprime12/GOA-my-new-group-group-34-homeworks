@@ -1,0 +1,33 @@
+button:hover {
+    transition: 0.5s;
+    letter-spacing: 3px;
+    background-color: rgb(255, 255, 0)
+}
+
+#pic1 {
+    border-radius: 50%;
+}
+
+h4 {
+    color: Blue;
+}
+
+button {
+    background-color: #094fe6;
+    color: White;
+    width: 170px;
+    border-radius: 10%;
+    height: 30px;
+}
+
+#btn1:hover {
+    height: 30px;
+    border-radius: 10%;
+    transition: 0.75s;
+    background-color: #1d56d1;
+}
+
+input {
+    height: 24px;
+    border-radius: 10%;
+}

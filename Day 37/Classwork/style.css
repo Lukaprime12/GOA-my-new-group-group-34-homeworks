@@ -1,0 +1,9 @@
+button:hover {
+    transition: 0.5s;
+    letter-spacing: 3px;
+    background-color: rgb(254, 132, 254)
+}
+
+#photo {
+    border-radius: 50%;
+}

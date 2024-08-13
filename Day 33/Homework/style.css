@@ -1,0 +1,11 @@
+img {
+    width: 450px;
+    border-radius: 50%;
+}
+
+button:hover {
+    background-color: Yellow;
+    transition: 0.75s;
+    letter-spacing: 5px;
+    border-radius: 10%;
+}

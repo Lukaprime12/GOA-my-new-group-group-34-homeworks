@@ -1,0 +1,38 @@
+body {
+    background-color: skyblue;
+}
+
+h1 {
+    color: #cffc03;
+}
+
+#pic1 {
+    border-radius: 50%;
+    width: 300px;
+}
+
+#a:hover {
+    transition: 1s;
+    letter-spacing: 5px;
+    background-color: blue;
+    color: gold;
+}
+
+#pic2 {
+    border-radius: 50%;
+    width: 500px;
+    height: 400px;
+}
+
+#pic3 {
+    border-radius: 50%;
+    width: 500px;
+    height: 400px;
+}
+
+
+#pic4 {
+    border-radius: 50%;
+    width: 500px;
+    height: 400px;
+}
