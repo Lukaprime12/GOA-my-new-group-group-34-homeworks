@@ -1,0 +1,21 @@
+a:nth-child(even):hover{
+    background-color: skyblue;
+    letter-spacing: 3px;
+    transition: 1s;
+    font-size: 25px;
+}
+
+button:hover {
+    background-color: skyblue;
+    color: yellow;
+    letter-spacing: 3px;
+    font-size: 25px;
+    transition: 1s;
+}
+
+#a1:hover{
+    background-color: yellow;
+    letter-spacing: 3px;
+    transition: 1s;
+    font-size: 25px;
+}
