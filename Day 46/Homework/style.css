@@ -1,0 +1,67 @@
+.text1 {
+    position: relative;
+    height: 400px;
+    width: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8%;
+    overflow: hidden;
+}
+
+.text1::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-image: url('Tbilisi,_Georgia_—_View_of_Tbilisi.jpg');
+    background-size: cover; 
+    filter: blur(4px);
+    z-index: 0;
+    border-radius: 8%; 
+}
+
+.text-container {
+    position: relative;
+    z-index: 1;
+    color: white;
+    font-size: 90px;
+    font-weight: bold; 
+    text-shadow: 1px 1px 2px black;
+}
+
+.text2 {
+    position: relative;
+    height: 400px;
+    width: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8%;
+    overflow: hidden;
+}
+
+.text2::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-image: url('Tbilisi,_Georgia_—_View_of_Tbilisi.jpg');
+    background-size: cover; 
+    filter: blur(4px);
+    z-index: 0;
+    border-radius: 8%; 
+}
+
+.text-container2 {
+    position: relative;
+    z-index: 1;
+    color: white;
+    font-size: 90px;
+    font-weight: bold; 
+    text-shadow: 1px 1px 2px black;
+}
