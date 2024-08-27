@@ -1,0 +1,76 @@
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: hsl(30, 38%, 92%);
+}
+
+main {
+    width: 850px;
+    display: flex;
+    display: flex;
+}
+
+img, section {
+    width: 50%;
+}
+
+section {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 58px;
+}
+
+#desc {
+    font-size: 20px;
+    line-height: 1.5;
+}
+
+p {
+    letter-spacing: 5px;
+}
+
+#price {
+    display: flex;
+    align-items: center;
+    gap: 25px;
+}
+
+#new-price {
+    font-size: 35px;
+    font-weight: 700;
+    color: hsl(158, 36%, 37%);
+}
+
+#old-price {
+    text-decoration: line-through;
+    font-size: 20px;
+}
+
+button {
+    padding: 20px;
+    background-color: hsl(158, 36%, 37%);
+    border: None;
+    border-radius: 10px;
+    color: White;
+    font-weight: 700;
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+}
+
+button:hover {
+    background-color: hsl(212, 21%, 14%);
+}
+
+img {
+    height: 780px;
+    width: 500px;
+    border: None;
+    border-radius: 15px;
+}

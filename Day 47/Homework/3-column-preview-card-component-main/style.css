@@ -1,0 +1,67 @@
+main {
+    display: flex;
+    width: 50%;
+}
+
+section {
+    width: 25%;
+    background-color: hsl(31, 77%, 52%);
+    border-radius: 10px;
+    border: None;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    padding: 40px;
+}
+
+h1 {
+    color: white;
+    line-height: 40px;
+}
+
+p {
+    color: White;
+    font-weight: 100;
+}
+
+button {
+    background-color: White;
+    color: orangered;
+    padding: 20px;
+    border: None;
+    border-radius: 40px;
+    font-weight: 700;
+    width: 150px;
+}
+
+#section2 {
+    background-color: hsl(184, 100%, 22%);
+    border: None;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    padding: 40px;
+    width: 25%;
+}
+
+p {
+    font-weight: 100;
+}
+
+#btn1 {
+    padding: 20px;
+    border: None;
+    border-radius: 40px;
+    font-weight: 700;
+    width: 150px;
+    background-color: White;
+    color: hsl(184, 100%, 22%);;
+}
+
+#section3 {
+    background-color: hsl(179, 100%, 13%);
+}
+
+button {
+    color: hsl(179, 100%, 13%);
+}
