@@ -1,0 +1,21 @@
+div:active {
+    transform: rotate(180deg);
+    color: Blue;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    transition: 1s;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 250px;
+    background-color: yellow;
+    border: 1px black solid
+}
+
+#Hi:active {
+    background-color: yellow;
+    height: 50%;
+    width: 50%;
+    transform: rotate(180deg);
+}
