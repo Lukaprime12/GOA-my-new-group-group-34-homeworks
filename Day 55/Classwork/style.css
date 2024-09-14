@@ -1,0 +1,13 @@
+header {
+    height: 20%;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+@media screen and (min-width: 400px) and (max-width: 600px){
+    header {
+        background-color: green;
+    }
+}
