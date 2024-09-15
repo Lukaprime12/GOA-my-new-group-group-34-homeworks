@@ -1,0 +1,39 @@
+img {
+    width: 200px;
+    margin-top: 30px;
+    position: relative;
+}
+
+section {
+    background-color: hsl(217, 54%, 11%);
+    width: 50%;
+    height: 700px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+#sec1 {
+    width: 40%;
+    height: 80%;
+    background-color: hsl(216, 50%, 16%);
+    border: None;
+    border-radius: 2.5%;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 50px;
+}
+
+p {
+    color: aqua;
+    margin-top: -200px;
+
+}
+
+h1 {
+    position: relative;
+    color: white;
+    font-weight: 100;
+    margin-top: 60px;
+}
